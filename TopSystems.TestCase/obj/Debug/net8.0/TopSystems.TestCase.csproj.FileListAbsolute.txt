@@ -1,0 +1,14 @@
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\bin\Debug\net8.0\TopSystems.TestCase.deps.json
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\bin\Debug\net8.0\TopSystems.TestCase.dll
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\bin\Debug\net8.0\TopSystems.TestCase.pdb
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.AssemblyInfoInputs.cache
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.AssemblyInfo.cs
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.csproj.CoreCompileInputs.cache
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.dll
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\refint\TopSystems.TestCase.dll
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.pdb
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\ref\TopSystems.TestCase.dll
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\bin\Debug\net8.0\TopSystems.TestCase.exe
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\bin\Debug\net8.0\TopSystems.TestCase.runtimeconfig.json
+C:\Users\etogood\Desktop\repos\TopSystems.TestCase\TopSystems.TestCase\obj\Debug\net8.0\TopSystems.TestCase.genruntimeconfig.cache
